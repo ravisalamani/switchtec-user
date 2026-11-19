@@ -1,0 +1,3 @@
+CI gateway test file.
+Created to verify the PR -> Jenkins trigger. Safe to delete.
+Second commit: tests pull_request.synchronize.
